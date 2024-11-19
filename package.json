@@ -1,0 +1,23 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "chrome": "^0.1.0",
+    "chromedriver": "^131.0.0",
+    "csv-parser": "^3.0.0",
+    "driver": "^1.0.0",
+    "geckodriver": "^4.5.1",
+    "mocha": "^10.8.2",
+    "papaparse": "^5.4.1",
+    "puppeteer": "^23.8.0",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
